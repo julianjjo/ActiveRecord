@@ -1,0 +1,44 @@
+repo_name: julianjjo/ActiveRecord
+report_id: 814d4ae3bbd5787297aa5941d83d9ab0
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-08T12:09:19+00:00'
+requested_by: joanhey
+provider: github
+branch: master
+detected_tools_count: 3
+tools:
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/julianjjo/ActiveRecord
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/julianjjo/ActiveRecord
+  detection_source: Repo Metadata
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/julianjjo/ActiveRecord/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: manuel_j555
+  last_updated_on: 2014-03-12 23:24:42.000000000 Z
